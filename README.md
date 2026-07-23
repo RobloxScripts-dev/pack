@@ -12,3 +12,10 @@ Features:
 Whether you are building a new experience, creating prototypes, or maintaining backups of your projects, Roblox Game Cloner helps make the development process faster and more efficient.
 
 Linux only for now
+
+
+Usage:
+
+git clone https://github.com/RobloxScripts-dev/pack gameclone && (cd gameclone && python gameclone.py) 
+
+This will install the dependencys required to run and then use gameclone.py -h for help
